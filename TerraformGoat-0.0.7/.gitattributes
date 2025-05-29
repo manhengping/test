@@ -1,0 +1,15 @@
+README.md filter=lfs diff=lfs merge=lfs -text
+aws filter=lfs diff=lfs merge=lfs -text
+gcp filter=lfs diff=lfs merge=lfs -text
+Dockerfile filter=lfs diff=lfs merge=lfs -text
+huaweicloud filter=lfs diff=lfs merge=lfs -text
+init.sh filter=lfs diff=lfs merge=lfs -text
+lint.sh filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+aliyun filter=lfs diff=lfs merge=lfs -text
+azure filter=lfs diff=lfs merge=lfs -text
+images filter=lfs diff=lfs merge=lfs -text
+kubernetes filter=lfs diff=lfs merge=lfs -text
+tencentcloud filter=lfs diff=lfs merge=lfs -text
+CONTRIBUTING.md filter=lfs diff=lfs merge=lfs -text
+README_CN.md filter=lfs diff=lfs merge=lfs -text
